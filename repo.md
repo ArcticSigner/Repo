@@ -1,16 +1,16 @@
 {
-  "name": "by Omega IPA Repo",
-  "identifier": "omegadev.xyz",
-  "sourceURL": "https://raw.githubusercontent.com/Omega-Omega-Omega/Omega-Repo/main/applist.md",
+  "name": "Arctic Repo",
+  "identifier": "repo.arctic.github",
+  "sourceURL": "https://github.com/ArcticSigner/Repo/blob/main/repo.md",
   "apps": [
     {
-      "name": "Welcome to Omega's IPA Repo!",
-      "bundleIdentifier": "xyz.omegadev.start",
-      "version": "16",
-      "versionDate": "2024-09-18",
-      "size": 142586675,
-      "downloadURL": "https://und3fy-my.sharepoint.com/personal/greenglasst_und3fy_dev/_layouts/15/download.aspx?share=EbSd8fQedLhBjFDPNbAHX6ABNtd4q_8yusax24A2sypEzw",
-      "developerName": "Omega",
-      "localizedDescription": "Welcome to Omega's IPA repo. \n\nStatus Icon Meanings:\n✅: Working\n🌟: Premium Features Unlocked\n💸: Paid Tweak, not Cracked\n🔥: Reccomended by Developer(s)\n\nP.S. Downloading this app will download Twitter.",
-      "iconURL": "https://raw.githubusercontent.com/Omega-Omega-Omega/Omega-Repo/main/omega%20app%20icon%20v2.jpg"
+      "name": "Arctic Beta",
+      "bundleIdentifier": "beta.signer.arctic.github",
+      "version": "1",
+      "versionDate": "2024-09-20",
+      "size": 8.1MB,
+      "downloadURL": "https://github.com/ArcticSigner/Arctic-Signer/releases/download/Beta/Arctic.ipa",
+      "developerName": "Arctic Services",
+      "localizedDescription": "The offical Arctic Beta.",
+      "iconURL": "https://github.com/ArcticSigner/Repo/blob/main/IMG_0040.png"
   }
