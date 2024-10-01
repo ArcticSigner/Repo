@@ -5,13 +5,13 @@
   "apps": [
     {
       "name": "Fall Guys",
-      "bundleIdentifier": "",
+      "bundleIdentifier": "uk.co.mediatonic.fallguys",
       "version": "11.2.1",
       "versionDate": "2024-09-03",
       "size": 195238232,
       "downloadURL": "",
       "developerName": "Epic Games",
-      "localizedDescription": "",
+      "localizedDescription": "Fall Guys.",
       "iconURL": ""
      },
   ]
