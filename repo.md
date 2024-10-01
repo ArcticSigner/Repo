@@ -21,13 +21,22 @@
         "localizedDescription": "This is the ipa for fall guys mobile",
         "iconURL": "https://example.com/myapp_icon.png",
         "tintColor": ""#8c03fc,
-        "category": "utilities",
+        "category": "games",
         "screenshots": [
-            "https://example.com/myapp_screenshot1.png",
-            "https://example.com/myapp_screenshot2.png",
-            "https://example.com/myapp_screenshot3.png"
+            ""
         ],
-        "versions": [],
+        "versions": [
+          {
+    "version": "11.2.1",
+    "buildVersion": "60",
+    "date": "2023-03-30",
+    "localizedDescription": "First AltStore release!",
+    "downloadURL": "https://github.com/ichitaso/EpicGamesIPA/releases/download/v1.0.0/Fall-Guys-11.2.1.ipa",
+    "size": 1.89GB,
+    "minOSVersion": "",
+    "maxOSVersion": ""
+  },
+        ],
         "appPermissions": {},
         "patreon": {},
     },
