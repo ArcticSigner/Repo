@@ -8,8 +8,8 @@
   "patreonURL": ""
   "tintColor": "#03fcf4",
   "featuredApps": [
-    "com.example.myapp",
-    "com.example.anotherapp"
+    "uk.co.mediatonic.fallguys",
+    ""
   ],
   "apps": [],
   "news": [],
