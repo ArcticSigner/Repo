@@ -11,6 +11,26 @@
     "uk.co.mediatonic.fallguys",
     ""
   ],
-  "apps": [],
+  "apps": [
+      {
+        "name": "Fall Guys",
+        "bundleIdentifier": "uk.co.mediatonic.fallguys",
+        "marketplaceID": "",
+        "developerName": "Epic Games",
+        "subtitle": "Fall Guys Mobile.",
+        "localizedDescription": "This is the ipa for fall guys mobile",
+        "iconURL": "https://example.com/myapp_icon.png",
+        "tintColor": ""#8c03fc,
+        "category": "utilities",
+        "screenshots": [
+            "https://example.com/myapp_screenshot1.png",
+            "https://example.com/myapp_screenshot2.png",
+            "https://example.com/myapp_screenshot3.png"
+        ],
+        "versions": [],
+        "appPermissions": {},
+        "patreon": {},
+    },
+  ],
   "news": [],
 }
