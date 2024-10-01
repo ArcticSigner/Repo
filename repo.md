@@ -1,16 +1,16 @@
 {
   "name": "Arctic Repo",
-  "identifier": "repo.arctic.github",
-  "sourceURL": "https://github.com/ArcticSigner/Repo/blob/main/repo.md",
-  "apps": [
-    {
-      "name": "Arctic Beta",
-      "bundleIdentifier": "beta.signer.arctic.github",
-      "version": "1",
-      "versionDate": "2024-09-20",
-      "size": 8.1MB,
-      "downloadURL": "https://github.com/ArcticSigner/Arctic-Signer/releases/download/Beta/Arctic.ipa",
-      "developerName": "Arctic Services",
-      "localizedDescription": "The offical Arctic Beta.",
-      "iconURL": "https://github.com/ArcticSigner/Repo/blob/main/IMG_0040.png"
-  }
+  "subtitle": "The Arctic Repo",
+  "description": "Arctic Signer's offical repo where you can find all the apps you need",
+  "iconURL": "https://github.com/ArcticSigner/Repo/blob/main/IMG_0041.jpeg",
+  "headerURL": "",
+  "website": "https://arcticsigner.github.io/",
+  "patreonURL": ""
+  "tintColor": "#03fcf4",
+  "featuredApps": [
+    "com.example.myapp",
+    "com.example.anotherapp"
+  ],
+  "apps": [],
+  "news": [],
+}
