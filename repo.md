@@ -43,12 +43,23 @@
     "com.apple.developer.siri"
   ],
   "privacy": {
-    "NSMicrophoneUsageDescription": "App uses the microphone to record audio.",
-    "NSCameraUsageDescription": "App uses the camera to take photos."
+    "NSMicrophoneUsageDescription": "The microphone is used by this app for voice chat with other players in your party."
   }
         },
         "patreon": {},
     },
   ],
-  "news": [],
+  "news": [
+    {
+    "title": "New Feature Announcement",
+    "identifier": "new_feature",
+    "caption": "Introducing a new feature in AltStore!",
+    "date": "2023-03-15",
+    "tintColor": "#F54F32",
+    "imageURL": "https://example.com/new_feature_image.png",
+    "notify": true,
+    "url": "https://example.com/new_feature_details",
+    "appID": "com.example.myapp"
+  },
+  ],
 }
