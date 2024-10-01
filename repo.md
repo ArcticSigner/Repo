@@ -29,8 +29,8 @@
           {
     "version": "11.2.1",
     "buildVersion": "4597",
-    "date": "2023-10-01",
-    "localizedDescription": "Update 11.2.1",
+    "date": "2024-09-03",
+    "localizedDescription": "Scrapyard Stumble",
     "downloadURL": "https://github.com/ichitaso/EpicGamesIPA/releases/download/v1.0.0/Fall-Guys-11.2.1.ipa",
     "size": 1.89GB,
     "minOSVersion": "",
@@ -51,10 +51,10 @@
   ],
   "news": [
     {
-    "title": "New Feature Announcement",
-    "identifier": "new_feature",
-    "caption": "Introducing a new feature in AltStore!",
-    "date": "2023-03-15",
+    "title": "Scrapyard Stumble!"
+    "identifier": "scrapyard_stumble",
+    "caption": "Experience the new Wasteland themed update.",
+    "date": "2024-09-03",
     "tintColor": "#F54F32",
     "imageURL": "https://example.com/new_feature_image.png",
     "notify": true,
