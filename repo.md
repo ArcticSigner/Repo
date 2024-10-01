@@ -8,8 +8,7 @@
   "patreonURL": ""
   "tintColor": "#03fcf4",
   "featuredApps": [
-    "uk.co.mediatonic.fallguys",
-    ""
+    "uk.co.mediatonic.fallguys"
   ],
   "apps": [
       {
@@ -22,9 +21,7 @@
         "iconURL": "https://example.com/myapp_icon.png",
         "tintColor": "#8c03fc",
         "category": "games",
-        "screenshots": [
-            ""
-        ],
+        "screenshots": [],
         "versions": [
           {
     "version": "11.2.1",
@@ -55,11 +52,11 @@
     "identifier": "scrapyard_stumble",
     "caption": "Experience the new Wasteland themed update.",
     "date": "2024-09-03",
-    "tintColor": "#F54F32",
+    "tintColor": "#8c03fc",
     "imageURL": "https://example.com/new_feature_image.png",
     "notify": true,
-    "url": "https://example.com/new_feature_details",
-    "appID": "com.example.myapp"
+    "url": "https://www.fallguys.com/news/scrapyard-stumble-update",
+    "appID": "uk.co.mediatonic.fallguys"
   },
   ],
 }
