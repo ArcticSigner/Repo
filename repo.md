@@ -20,7 +20,7 @@
         "subtitle": "Fall Guys Mobile.",
         "localizedDescription": "This is the ipa for fall guys mobile",
         "iconURL": "https://example.com/myapp_icon.png",
-        "tintColor": ""#8c03fc,
+        "tintColor": "#8c03fc",
         "category": "games",
         "screenshots": [
             ""
@@ -28,16 +28,25 @@
         "versions": [
           {
     "version": "11.2.1",
-    "buildVersion": "60",
-    "date": "2023-03-30",
-    "localizedDescription": "First AltStore release!",
+    "buildVersion": "4597",
+    "date": "2023-10-01",
+    "localizedDescription": "Update 11.2.1",
     "downloadURL": "https://github.com/ichitaso/EpicGamesIPA/releases/download/v1.0.0/Fall-Guys-11.2.1.ipa",
     "size": 1.89GB,
     "minOSVersion": "",
     "maxOSVersion": ""
   },
         ],
-        "appPermissions": {},
+        "appPermissions": {
+        "entitlements": [
+    "com.apple.security.application-groups",
+    "com.apple.developer.siri"
+  ],
+  "privacy": {
+    "NSMicrophoneUsageDescription": "App uses the microphone to record audio.",
+    "NSCameraUsageDescription": "App uses the camera to take photos."
+  }
+        },
         "patreon": {},
     },
   ],
