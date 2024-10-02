@@ -1,7 +1,7 @@
 {
   "name": "Arctic Repo",
   "identifier": "arcticrepo.xyz",
-  "sourceURL": "https://github.com/ArcticSigner/Repo/blob/main/repo.json",
+  "sourceURL": "https://github.com/ArcticSigner/Repo/releases/download/Repo/repo.json",
   "apps": [
     {
       "name": "Fall Guys",
