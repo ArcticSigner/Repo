@@ -4,6 +4,17 @@
   "sourceURL": "https://raw.githubusercontent.com/ArcticSigner/Repo/refs/heads/main/repo.json",
   "apps": [
     {
+      "name": "Arctic Beta",
+      "bundleIdentifier": "beta.signer.arctic.github",
+      "version": "1.0.0",
+      "versionDate": "2024-09-26",
+      "size": 8100000,
+      "downloadURL": "https://github.com/ArcticSigner/Arctic-Signer/releases/download/Beta/Arctic.ipa",
+      "developerName": "Arctic Services",
+      "localizedDescription": "Arctic beta without ui, so if you download it will crash.",
+      "iconURL": "https://github.com/ArcticSigner/Repo/blob/main/IMG_0040.png"
+    }
+    {
       "name": "Fall Guys",
       "bundleIdentifier": "uk.co.mediatonic.fallguys",
       "version": "11.2.1",
