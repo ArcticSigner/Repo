@@ -38,13 +38,13 @@
     },
     {
       "name": "Geometry Dash", 
-      "bundleIdentifier": "com.mojang.minecraftpe.mctemplate", 
-      "version": "2.0",
+      "bundleIdentifier": "com.roptop.geometryjump", 
+      "version": "2.206",
       "versionDate": "2023-12-08",
-      "size": 514600000, 
+      "size": 156700000, 
       "downloadURL": "https://mobdisc.com/fdl/ec16ca8c-327b-43dc-b5d1-6b1224288560/Geometry-Dash-v2-206.ipa", 
-      "developerName": "Mojang Studios", 
-      "localizedDescription": "Minecraft, the perfect party game to play with friends.", 
+      "developerName": "RobTop", 
+      "localizedDescription": "Geometry Dash the perfect platformer game.", 
       "iconURL": "https://www.minecraft.net/content/dam/minecraftnet/games/minecraft/logos/Homepage_Gameplay-Trailer_MC-OV-logo_300x300.png" 
     },
     {
