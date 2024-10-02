@@ -37,6 +37,17 @@
       "iconURL": "https://www.minecraft.net/content/dam/minecraftnet/games/minecraft/logos/Homepage_Gameplay-Trailer_MC-OV-logo_300x300.png" 
     },
     {
+      "name": "Geometry Dash", 
+      "bundleIdentifier": "com.mojang.minecraftpe.mctemplate", 
+      "version": "2.0",
+      "versionDate": "2023-12-08",
+      "size": 514600000, 
+      "downloadURL": "https://mobdisc.com/fdl/ec16ca8c-327b-43dc-b5d1-6b1224288560/Geometry-Dash-v2-206.ipa", 
+      "developerName": "Mojang Studios", 
+      "localizedDescription": "Minecraft, the perfect party game to play with friends.", 
+      "iconURL": "https://www.minecraft.net/content/dam/minecraftnet/games/minecraft/logos/Homepage_Gameplay-Trailer_MC-OV-logo_300x300.png" 
+    },
+    {
       "name": "YouTube",
       "bundleIdentifier": "com.google.ios.youtube",
       "version": "19.21.2",
