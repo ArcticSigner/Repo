@@ -5,7 +5,7 @@
   "apps": [
     {
       "name": "Fortnite",
-      "bundleIdentifier": "beta.signer.arctic.github",
+      "bundleIdentifier": "com.epicgames.FortniteGame<",
       "version": "31.20.1",
       "versionDate": "2024-06-22",
       "size": 264300000,
