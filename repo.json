@@ -27,8 +27,8 @@
     }
     {
       "name": "Youtube",
-      "bundleIdentifier": "uk.co.mediatonic.fallguys",
-      "version": "11.2.1",
+      "bundleIdentifier": "com.google.ios.youtube",
+      "version": "19.21.2",
       "versionDate": "2024-8-09",
       "size": 127400000,
       "downloadURL": "https://ia600202.us.archive.org/6/items/YouTubeRebornPlus_19.10.5-4.2.6/yt-uYE-19212-304.ipa",
