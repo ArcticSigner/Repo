@@ -49,12 +49,12 @@
     },
      {
       "name": "BloonsTD6+", 
-      "bundleIdentifier": "com.roptop.geometryjump", 
+      "bundleIdentifier": "com.ninjakiwi.bloonstd6plus", 
       "version": "6",
       "versionDate": "2024-09-12",
       "size": 660100000, 
       "downloadURL": "https://mobdisc.com/fdl/bb3ad2a1-1ad1-4593-84a4-68445abf2b6b/Bloons-TD-6-plus-v44-1.ipa", 
-      "developerName": "Bloons", 
+      "developerName": "NinjaKiwi", 
       "localizedDescription": "Tower defense game.", 
       "iconURL": "https://pdacdn.com/app/6208aa6e22d60/bloons-td-6.png" 
     },
