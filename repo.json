@@ -6,7 +6,7 @@
     {
       "name": "Arctic Beta",
       "bundleIdentifier": "beta.signer.arctic.github",
-      "version": "1.0.0",
+      "version": "1",
       "versionDate": "2024-10-2",
       "size": 8100000,
       "downloadURL": "https://github.com/ArcticSigner/Arctic-Signer/releases/download/Beta/Arctic.ipa",
