@@ -4,21 +4,21 @@
   "sourceURL": "https://raw.githubusercontent.com/ArcticSigner/Repo/refs/heads/main/repo.json",
   "apps": [
     {
-      "name": "Arctic Beta",
+      "name": "Fortnite",
       "bundleIdentifier": "beta.signer.arctic.github",
-      "version": "1",
-      "versionDate": "2024-10-2",
+      "version": "31.20.1",
+      "versionDate": "2024-06-22",
       "size": 8100000,
-      "downloadURL": "https://github.com/ArcticSigner/Arctic-Signer/releases/download/Beta/Arctic.ipa",
+      "downloadURL": "https://github.com/ichitaso/EpicGamesIPA/releases/download/v1.0.0/Fortnite-31.20.1.ipa",
       "developerName": "Arctic",
-      "localizedDescription": "Arctic beta without ui, so if you download it will crash.",
+      "localizedDescription": "The star of the show Fortnite mobile!",
       "iconURL": "https://github.com/ArcticSigner/Repo/blob/main/IMG_0040.png"
     }
     {
       "name": "Fall Guys",
       "bundleIdentifier": "uk.co.mediatonic.fallguys",
       "version": "11.2.1",
-      "versionDate": "2024-09-26",
+      "versionDate": "2024-09-03",
       "size": 1890000000,
       "downloadURL": "https://github.com/ichitaso/EpicGamesIPA/releases/download/v1.0.0/Fall-Guys-11.2.1.ipa",
       "developerName": "Mediatonic",
