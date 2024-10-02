@@ -3,16 +3,16 @@
   "identifier": "arcticrepo.xyz",
   "sourceURL": "https://raw.githubusercontent.com/ArcticSigner/Repo/refs/heads/main/repo.json",
   "apps": [
-    {
-      "name": "Fortnite",
-      "bundleIdentifier": "com.epicgames.FortniteGame<",
+        {
+      "name": "Fortnite", 
+      "bundleIdentifier": "com.epicgames.FortniteGame", 
       "version": "31.20.1",
       "versionDate": "2024-06-22",
-      "size": 264300000,
-      "downloadURL": "https://github.com/ichitaso/EpicGamesIPA/releases/download/v1.0.0/Fortnite-31.20.1.ipa",
-      "developerName": "Epic Games",
-      "localizedDescription": "The star of the show Fortnite mobile!",
-      "iconURL": "https://github.com/ArcticSigner/Repo/blob/main/IMG_0040.png"
+      "size": 264300000, 
+      "downloadURL": "https://github.com/ichitaso/EpicGamesIPA/releases/download/v1.0.0/Fortnite-31.20.1.ipa", 
+      "developerName": "Epic Games", 
+      "localizedDescription": "The star of the show: Fortnite", 
+      "iconURL": "https://github.com/ArcticSigner/Repo/blob/main/IMG_0103.png" 
     },
     {
       "name": "Fall Guys",
