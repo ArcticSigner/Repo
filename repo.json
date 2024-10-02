@@ -3,7 +3,7 @@
   "identifier": "arcticrepo.xyz",
   "sourceURL": "https://raw.githubusercontent.com/ArcticSigner/Repo/refs/heads/main/repo.json",
   "apps": [
-    {
+       {
       "name": "Fortnite", 
       "bundleIdentifier": "com.epicgames.FortniteGame", 
       "version": "31.20.1",
