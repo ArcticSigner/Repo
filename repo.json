@@ -27,7 +27,7 @@
     },
     {
       "name": "Minecraft", 
-      "bundleIdentifier": "", 
+      "bundleIdentifier": "com.mojang.minecraftpe.mctemplate", 
       "version": "1.21.31",
       "versionDate": "2024-10-01",
       "size": 514600000, 
