@@ -27,14 +27,14 @@
     },
     {
       "name": "Minecraft", 
-      "bundleIdentifier": "com.epicgames.FortniteGame", 
+      "bundleIdentifier": "", 
       "version": "1.21.31",
       "versionDate": "2024-10-01",
-      "size": , 
+      "size": 514600000, 
       "downloadURL": "https://mobdisc.com/fdl/f3c2444d-2bab-4f0c-9f2d-b60c10dac785/Minecraft-v1-21-31.ipa", 
       "developerName": "Mojang Studios", 
       "localizedDescription": "Minecraft, the perfect party game to play with friends.", 
-      "iconURL": "https://static.wikia.nocookie.net/logopedia/images/d/db/Fortnite_S1.svg/revision/latest/scale-to-width-down/250?cb=20210330161743" 
+      "iconURL": "https://www.minecraft.net/content/dam/minecraftnet/games/minecraft/key-art/Homepage_Discover-our-games_MC-Vanilla-KeyArt_864x864.jpg" 
     },
     {
       "name": "YouTube",
