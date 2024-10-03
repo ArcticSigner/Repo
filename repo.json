@@ -59,19 +59,8 @@
       "iconURL": "https://storage.googleapis.com/pr-newsroom-wp/1/2023/05/Spotify_Primary_Logo_RGB_Green-300x300.png" 
     },
     {
-      "name": "Spotify", 
-      "bundleIdentifier": "com.spotify.client", 
-      "version": "5.3",
-      "versionDate": "2024-10-02",
-      "size": 50300000, 
-      "downloadURL": "https://github.com/whoeevee/EeveeSpotify/releases/download/swift5.3/EeveeSpotify-5.3-8.9.78.ipa", 
-      "developerName": "Spotify", 
-      "localizedDescription": "Spotify injected with EeveeSpotify.", 
-      "iconURL": "https://storage.googleapis.com/pr-newsroom-wp/1/2023/05/Spotify_Primary_Logo_RGB_Green-300x300.png" 
-    },
-    {
       "name": "BloonsTD6", 
-      "bundleIdentifier": "com.spotify.client", 
+      "bundleIdentifier": "com.ninjakiwi.bloonstd6", 
       "version": "44.1",
       "versionDate": "2024-02-02",
       "size": 60300000, 
