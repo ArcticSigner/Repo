@@ -50,10 +50,10 @@
     {
       "name": "Spotify", 
       "bundleIdentifier": "com.spotify.client", 
-      "version": "5.3",
+      "version": "5.4",
       "versionDate": "2024-10-02",
       "size": 50300000, 
-      "downloadURL": "https://github.com/whoeevee/EeveeSpotify/releases/download/swift5.3/EeveeSpotify-5.3-8.9.78.ipa", 
+      "downloadURL": "https://github.com/whoeevee/EeveeSpotify/releases/download/swift5.4/EeveeSpotify-5.4-8.9.80.ipa", 
       "developerName": "Spotify", 
       "localizedDescription": "Spotify injected with EeveeSpotify.", 
       "iconURL": "https://storage.googleapis.com/pr-newsroom-wp/1/2023/05/Spotify_Primary_Logo_RGB_Green-300x300.png" 
