@@ -5,7 +5,6 @@
   "apps": [
        {
       "name": "Fortnite",
-      "subtitle": "Not in the EU, no problem."
       "bundleIdentifier": "com.epicgames.FortniteGame", 
       "version": "31.30.1",
       "versionDate": "2024-06-22",
@@ -17,7 +16,6 @@
     },
     {
       "name": "Fall Guys",
-      "subtitle": "Not in the EU, no problem."
       "bundleIdentifier": "uk.co.mediatonic.fallguys",
       "version": "11.2.1",
       "versionDate": "2024-09-03",
@@ -29,7 +27,6 @@
     },
     {
       "name": "Minecraft",
-      "subtitle": "Not in the EU, no problem."
       "bundleIdentifier": "com.mojang.minecraftpe.mctemplate", 
       "version": "1.21.31",
       "versionDate": "2024-10-01",
@@ -41,7 +38,6 @@
     },
     {
       "name": "Geometry Dash",
-      "subtitle": "Not in the EU, no problem."
       "bundleIdentifier": "com.roptop.geometryjump", 
       "version": "2.206",
       "versionDate": "2023-12-08",
@@ -53,7 +49,6 @@
     },
     {
       "name": "Spotify", 
-      "subtitle": "Not in the EU, no problem."
       "bundleIdentifier": "com.spotify.client", 
       "version": "5.4",
       "versionDate": "2024-10-02",
@@ -65,7 +60,6 @@
     },
     {
       "name": "Procreate Dreams", 
-      "subtitle": "Not in the EU, no problem."
       "bundleIdentifier": "com.ninjakiwi.bloonstd6", 
       "version": "1.0.11",
       "versionDate": "2024-03-23",
@@ -76,7 +70,6 @@
     },
     {
       "name": "YouTube",
-      "subtitle": "Not in the EU, no problem."
       "bundleIdentifier": "com.google.ios.youtube",
       "version": "19.21.2",
       "versionDate": "2024-10-02",
