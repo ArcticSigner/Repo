@@ -28,7 +28,8 @@
       "iconURL": "https://preview.redd.it/fall-guys-mobile-icon-v0-d3n68howgkhd1.jpeg?auto=webp&s=c7f9e61f59f0800bdf628e344125d027642d2e88"
     },
     {
-      "name": "Minecraft", 
+      "name": "Minecraft",
+      "subtitle": "Not in the EU, no problem."
       "bundleIdentifier": "com.mojang.minecraftpe.mctemplate", 
       "version": "1.21.31",
       "versionDate": "2024-10-01",
@@ -39,7 +40,8 @@
       "iconURL": "https://www.minecraft.net/content/dam/minecraftnet/games/minecraft/logos/Homepage_Gameplay-Trailer_MC-OV-logo_300x300.png" 
     },
     {
-      "name": "Geometry Dash", 
+      "name": "Geometry Dash",
+      "subtitle": "Not in the EU, no problem."
       "bundleIdentifier": "com.roptop.geometryjump", 
       "version": "2.206",
       "versionDate": "2023-12-08",
@@ -51,6 +53,7 @@
     },
     {
       "name": "Spotify", 
+      "subtitle": "Not in the EU, no problem."
       "bundleIdentifier": "com.spotify.client", 
       "version": "5.4",
       "versionDate": "2024-10-02",
@@ -62,6 +65,7 @@
     },
     {
       "name": "Procreate Dreams", 
+      "subtitle": "Not in the EU, no problem."
       "bundleIdentifier": "com.ninjakiwi.bloonstd6", 
       "version": "1.0.11",
       "versionDate": "2024-03-23",
@@ -72,6 +76,7 @@
     },
     {
       "name": "YouTube",
+      "subtitle": "Not in the EU, no problem."
       "bundleIdentifier": "com.google.ios.youtube",
       "version": "19.21.2",
       "versionDate": "2024-10-02",
