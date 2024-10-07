@@ -5,7 +5,6 @@
   "apps": [
        {
       "name": "Fortnite",
-      "subtitle": "Not in the EU, no problem."
       "bundleIdentifier": "com.epicgames.FortniteGame", 
       "version": "31.30.1",
       "versionDate": "2024-06-22",
@@ -17,7 +16,6 @@
     },
     {
       "name": "Fall Guys",
-      "subtitle": "Not in the EU, no problem."
       "bundleIdentifier": "uk.co.mediatonic.fallguys",
       "version": "11.2.1",
       "versionDate": "2024-09-03",
