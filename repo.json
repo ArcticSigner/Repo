@@ -72,9 +72,9 @@
     {
       "name": "Esign, No Logs, No Tracking", 
       "bundleIdentifier": "xyz.yyyue.esign", 
-      "version": "5.2",
+      "version": "5.0.2",
       "versionDate": "2024-09-02",
-      "size": 50300000, 
+      "size": 740000, 
       "downloadURL": "https://github.com/whoeevee/EeveeSpotify/releases/download/swift5.4/EeveeSpotify-5.4-8.9.80.ipa", 
       "developerName": "Arctic Services", 
       "localizedDescription": "A tweaked version of SharpListen's Esign No Logs that removes the: camera and location permissions.", 
