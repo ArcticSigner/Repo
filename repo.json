@@ -71,14 +71,14 @@
     },
     {
       "name": "Esign, No Logs, No Tracking", 
-      "bundleIdentifier": "", 
-      "version": "5.4",
-      "versionDate": "2024-10-02",
+      "bundleIdentifier": "xyz.yyyue.esign", 
+      "version": "5.2",
+      "versionDate": "2024-09-02",
       "size": 50300000, 
       "downloadURL": "https://github.com/whoeevee/EeveeSpotify/releases/download/swift5.4/EeveeSpotify-5.4-8.9.80.ipa", 
-      "developerName": "Spotify", 
-      "localizedDescription": "Spotify injected with EeveeSpotify.", 
-      "iconURL": "https://storage.googleapis.com/pr-newsroom-wp/1/2023/05/Spotify_Primary_Logo_RGB_Green-300x300.png" 
+      "developerName": "Arctic Services", 
+      "localizedDescription": "A tweaked version of SharpListen's Esign No Logs that removes the: camera and location permissions.", 
+      "iconURL": "" 
     },
     {
       "name": "YouTube",
