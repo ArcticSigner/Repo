@@ -92,13 +92,13 @@
       "iconURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiN1MRecR4X--Ox9Pp-R-VS1-cYQinlzgfyAppAAJcNA&s"
     },
     {
-      "name": "Instagram", 
+      "name": "Dopamine", 
       "bundleIdentifier": "com.spotify.client", 
       "version": "5.5",
       "versionDate": "2024-10-02",
       "size": 50300000, 
       "downloadURL": "https://github.com/whoeevee/EeveeSpotify/releases/download/swift5.5/EeveeSpotify-5.5-8.9.82.ipa", 
-      "developerName": "Meta", 
+      "developerName": "", 
       "localizedDescription": "Instagram inejected with Elite.", 
       "iconURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4m-6FpOB9qqxpqeSHUglZ1Rd1j2tEzqSlbHA7SyxCbQ&s" 
     },
