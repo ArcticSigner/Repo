@@ -93,7 +93,7 @@
     },
     {
       "name": "Dopamine", 
-      "bundleIdentifier": "com.spotify.client", 
+      "bundleIdentifier": "com.opa334.Dopamine", 
       "version": "2.2.2",
       "versionDate": "2024-08-15",
       "size": 47400000, 
