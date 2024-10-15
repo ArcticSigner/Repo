@@ -107,11 +107,11 @@
       "bundleIdentifier": "com.Alfie.TrollInstallerX", 
       "version": "2.2",
       "versionDate": "2024-09-13",
-      "downloadURL": "", 
+      "downloadURL": "https://github.com/dayanch96/YTMusicUltimate/releases/download/v2.2/com.ginsu.ytmusicultimate_2.2_iphoneos-arm64e.deb", 
       "size": 978000,
       "developerName": "dayanch96", 
-      "localizedDescription": "YTMusic injected with Ultimate", 
-      "iconURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiN1MRecR4X--Ox9Pp-R-VS1-cYQinlzgfyAppAAJcNA&s"
+      "localizedDescription": "YTMusic injected with Ultimate. (arm64e version)", 
+      "iconURL": ""
     },
     {
       "name": "YouTube",
