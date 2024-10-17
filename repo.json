@@ -1,11 +1,9 @@
 {
-  "name": "My Example Source",
-  "subtitle": "A source for all of my apps",
-  "description": "Welcome to my source! Here you'll find all of my apps.",
+  "name": "Arctic Repo",
+  "subtitle": "Arctic Signer's offical repo!",
+  "description": "Welcome to Arctic's Repo, here is my recommended apps",
   "iconURL": "https://example.com/source_icon.png",
-  "headerURL": "https://example.com/source_header.png",
   "website": "https://example.com",
-  "patreonURL": "https://patreon.com/mycampaign"
   "tintColor": "#F54F32",
   "featuredApps": [
     "com.example.myapp",
