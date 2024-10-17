@@ -119,18 +119,6 @@
       "category": "utilities",
     },
     {
-      "name": "YTMusic", 
-      "bundleIdentifier": "com.Alfie.TrollInstallerX", 
-      "version": "2.2",
-      "versionDate": "2024-09-13",
-      "downloadURL": "", 
-      "size": 9780000,
-      "developerName": "dayanch96", 
-      "localizedDescription": "YTMusic injected with .", 
-      "iconURL": ""
-      "category": "entertainment",
-    },
-    {
       "name": "Feather", 
       "bundleIdentifier": "kh.crysalis.feather", 
       "version": "1.0.5",
