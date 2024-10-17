@@ -118,9 +118,9 @@
       "name": "Feather", 
       "bundleIdentifier": "com.Alfie.TrollInstallerX", 
       "version": "1.0.5",
-      "versionDate": "2024-09-13",
+      "versionDate": "2024-10-02",
       "downloadURL": "https://github.com/khcrysalis/Feather/releases/download/v1.0.5/feather_v1.0.5.ipa", 
-      "size": 9780000,
+      "size": 120000,
       "developerName": "khcrysalis", 
       "localizedDescription": "Feather a new ipa signer. (Not as good as Arctic)", 
       "iconURL": ""
