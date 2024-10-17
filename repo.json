@@ -12,7 +12,7 @@
       "size": 253000000, 
       "downloadURL": "https://github.com/ichitaso/EpicGamesIPA/releases/download/v1.0.2/Fortnite-31.30.1.ipa", 
       "developerName": "Epic Games", 
-      "localizedDescription": "Fortnite mobile, (Does Not work with all certs, to play it you need increased memory limit and extended virtual addressing).", 
+      "localizedDescription": "Fortnite mobile, (Does Not work with all certs, to play it you need increased memory limit and extended virtual addressing).",
       "iconURL": "https://static.wikia.nocookie.net/logopedia/images/d/db/Fortnite_S1.svg/revision/latest/scale-to-width-down/250?cb=20210330161743" 
     },
     {
@@ -112,6 +112,17 @@
       "size": 9780000,
       "developerName": "dayanch96", 
       "localizedDescription": "YTMusic injected with .", 
+      "iconURL": ""
+    },
+    {
+      "name": "Feather", 
+      "bundleIdentifier": "com.Alfie.TrollInstallerX", 
+      "version": "1.0.5",
+      "versionDate": "2024-09-13",
+      "downloadURL": "https://github.com/khcrysalis/Feather/releases/download/v1.0.5/feather_v1.0.5.ipa", 
+      "size": 9780000,
+      "developerName": "khcrysalis", 
+      "localizedDescription": "Feather a new ipa signer. (Not as good as Arctic)", 
       "iconURL": ""
     },
     {
