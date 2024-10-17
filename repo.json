@@ -20,7 +20,6 @@
       "developerName": "Epic Games", 
       "localizedDescription": "Fortnite mobile, (Does Not work with all certs, to play it you need increased memory limit and extended virtual addressing).",
       "iconURL": "https://static.wikia.nocookie.net/logopedia/images/d/db/Fortnite_S1.svg/revision/latest/scale-to-width-down/250?cb=20210330161743" 
-      "category": "games",
     },
     {
       "name": "Fall Guys",
@@ -32,7 +31,6 @@
       "developerName": "Mediatonic",
       "localizedDescription": "Enjoy the spooky Falloween update on mobile.",
       "iconURL": "https://preview.redd.it/fall-guys-mobile-icon-v0-d3n68howgkhd1.jpeg?auto=webp&s=c7f9e61f59f0800bdf628e344125d027642d2e88"
-      "category": "games",
     },  
     {
       "name": "Minecraft", 
@@ -44,7 +42,6 @@
       "developerName": "Mojang Studios", 
       "localizedDescription": "Minecraft, the perfect party game to play with friends.", 
       "iconURL": "https://www.minecraft.net/content/dam/minecraftnet/games/minecraft/logos/Homepage_Gameplay-Trailer_MC-OV-logo_300x300.png" 
-      "category": "games",
     },
     {
       "name": "Geometry Dash", 
