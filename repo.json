@@ -126,6 +126,17 @@
       "iconURL": "https://github.com/khcrysalis/Feather/blob/main/Images/512@2x.png?raw=true"    
     },
     {
+      "name": "Scarlet", 
+      "bundleIdentifier": "com.Alfie.TrollInstallerX", 
+      "version": "1.0.0",
+      "versionDate": "2020-08-14",
+      "downloadURL": "https://github.com/ArcticSigner/Repo/releases/download/Ipa/ScarletAlpha.ipa", 
+      "size": 9780000,
+      "developerName": "DebianArch64", 
+      "localizedDescription": "YTMusic injected with .", 
+      "iconURL": ""
+    },
+    {
       "name": "YouTube",
       "bundleIdentifier": "com.google.ios.youtube",
       "version": "19.21.2",
