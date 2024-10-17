@@ -1,8 +1,16 @@
 {
-  "name": "Arctic Repo",
-  "identifier": "arcticrepo.xyz",
-  "iconURL": "https://github.com/ArcticSigner/Repo/blob/main/IMG_0008.jpeg",
-  "sourceURL": "https://raw.githubusercontent.com/ArcticSigner/Repo/refs/heads/main/repo.json",
+  "name": "My Example Source",
+  "subtitle": "A source for all of my apps",
+  "description": "Welcome to my source! Here you'll find all of my apps.",
+  "iconURL": "https://example.com/source_icon.png",
+  "headerURL": "https://example.com/source_header.png",
+  "website": "https://example.com",
+  "patreonURL": "https://patreon.com/mycampaign"
+  "tintColor": "#F54F32",
+  "featuredApps": [
+    "com.example.myapp",
+    "com.example.anotherapp"
+  ],
   "apps": [
        {
       "name": "Fortnite",
