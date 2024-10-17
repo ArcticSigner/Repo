@@ -2,8 +2,8 @@
   "name": "Arctic Repo",
   "subtitle": "Arctic Signer's offical repo!",
   "description": "Welcome to Arctic's Repo, here is my recommended apps",
-  "iconURL": "https://example.com/source_icon.png",
-  "website": "https://example.com",
+  "iconURL": "https://github.com/ArcticSigner/Repo/blob/main/IMG_0008.jpeg",
+  "website": "https://arcticsigner.github.io",
   "tintColor": "#F54F32",
   "featuredApps": [
     "com.example.myapp",
