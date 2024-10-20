@@ -13,10 +13,10 @@
        {
       "name": "Fortnite",
       "bundleIdentifier": "com.epicgames.FortniteGame", 
-      "version": "31.30.1",
+      "version": "31.40.1",
       "versionDate": "2024-06-22",
       "size": 253000000, 
-      "downloadURL": "https://github.com/ichitaso/EpicGamesIPA/releases/download/v1.0.2/Fortnite-31.30.1.ipa", 
+      "downloadURL": "https://github.com/ichitaso/EpicGamesIPA/releases/download/v1.0.5/Fortnite-31.40.1.ipa", 
       "developerName": "Epic Games", 
       "localizedDescription": "Fortnite mobile, (Does Not work with all certs, to play it you need increased memory limit and extended virtual addressing).",
       "iconURL": "https://static.wikia.nocookie.net/logopedia/images/d/db/Fortnite_S1.svg/revision/latest/scale-to-width-down/250?cb=20210330161743" 
