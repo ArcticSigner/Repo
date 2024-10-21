@@ -1,5 +1,7 @@
 {
   "name": "Arctic Repo",
+  "identifier": "arcticrepo.xyz",
+  "sourceURL": "https://raw.githubusercontent.com/Omega-Omega-Omega/Omega-Repo/main/applist.md",
   "apps": [
        {
       "name": "Fortnite",
