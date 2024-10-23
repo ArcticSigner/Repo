@@ -1,6 +1,8 @@
 <p align="center">
-  <a href="https://user-images.githubusercontent.com/78001398/271790092-006e81cc-715a-4fbc-aff6-15832e2da8c4.png">
-    <img src="https://user-images.githubusercontent.com/78001398/271790092-006e81cc-715a-4fbc-aff6-15832e2da8c4.png" alt="UYOUPLUS_LOGO" width="200" height="200">
+  <a href="https://github.com/ArcticSigner/Repo/blob/main/icon.png?raw=true![image](https://github.com/user-attachments/assets/821942dd-d124-4011-bb91-82a065fc7096)
+">
+    <img src="https://github.com/ArcticSigner/Repo/blob/main/icon.png?raw=true![image](https://github.com/user-attachments/assets/c35742e0-6cd4-4e0a-9c2d-e7eb74f0592e)
+" alt="REPO_ICON" width="200" height="200">
   </a>
 </p>
 
