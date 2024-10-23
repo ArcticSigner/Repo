@@ -33,7 +33,7 @@
     },  
     {
       "name": "Minecraft", 
-      "subtitle": "Now available outside of the EU.",
+      "subtitle": "Now Minecraft is free!",
       "bundleIdentifier": "com.mojang.minecraftpe.mctemplate", 
       "version": "1.21.31",
       "versionDate": "2024-10-01",
@@ -45,7 +45,7 @@
     },
     {
       "name": "Geometry Dash", 
-      "subtitle": "Now available outside of the EU.",
+      "subtitle": "Now Geometry Dash is free!",
       "bundleIdentifier": "com.roptop.geometryjump", 
       "version": "2.206",
       "versionDate": "2023-12-08",
@@ -57,7 +57,7 @@
     },
     {
       "name": "Spotify", 
-      "subtitle": "Now available outside of the EU.",
+      "subtitle": "Eevee the best Spotify tweak.",
       "bundleIdentifier": "com.spotify.client", 
       "version": "5.6",
       "versionDate": "2024-10-02",
@@ -69,7 +69,7 @@
     },
     {
       "name": "Procreate Dreams", 
-      "subtitle": "Now available outside of the EU.",
+      "subtitle": "Normally $25 now free!",
       "bundleIdentifier": "au.com.savageinteractive.Dream", 
       "version": "1.0.11",
       "versionDate": "2024-03-23",
@@ -81,7 +81,7 @@
     },
     {
       "name": "PureKFD", 
-      "subtitle": "Now available outside of the EU.",
+      "subtitle": "Only the best tweaking app.",
       "bundleIdentifier": "uwu.lrdsnow.purekfdiOS", 
       "version": "6.0.1",
       "versionDate": "2024-09-18",
@@ -93,7 +93,7 @@
     },
     {
       "name": "TrollInstallerX", 
-      "subtitle": "Now available outside of the EU.",
+      "subtitle": "The best way to install TrollStore!",
       "bundleIdentifier": "com.Alfie.TrollInstallerX", 
       "version": "1.0.3",
       "versionDate": "2024-09-13",
@@ -105,7 +105,7 @@
     },
     {
       "name": "Dopamine", 
-      "subtitle": "Now available outside of the EU.",
+      "subtitle": "The best and the latest jailbreak.",
       "bundleIdentifier": "com.opa334.Dopamine", 
       "version": "2.2.2",
       "versionDate": "2024-08-15",
@@ -117,7 +117,7 @@
     },
     {
       "name": "Feather", 
-      "subtitle": "Now available outside of the EU.",
+      "subtitle": "A new log-free ipa signer.",
       "bundleIdentifier": "kh.crysalis.feather", 
       "version": "1.0.5",
       "versionDate": "2024-10-02",
@@ -129,7 +129,7 @@
     },
     {
       "name": "Scarlet", 
-      "subtitle": "Now available outside of the EU.",
+      "subtitle": "A classic ipa signer.",
       "bundleIdentifier": "DebianArch.ScarletPersonalXYZZZ", 
       "version": "1.0.0",
       "versionDate": "2020-08-14",
@@ -141,7 +141,7 @@
     },
     {
       "name": "YTMusicUltimate", 
-      "subtitle": "Now available outside of the EU.",
+      "subtitle": "The best YT Music Tweak.",
       "bundleIdentifier": "com.google.ios.youtubemusic", 
       "version": "2.2",
       "versionDate": "2020-09-12",
@@ -152,8 +152,8 @@
       "iconURL": "https://user-images.githubusercontent.com/38832025/235781424-06d81647-b3db-4d9b-94dc-cd65cdf09145.png?raw=true)"
     },
     {
-      "name": "YouTube",
-      "subtitle": "Now available outside of the EU.",
+      "name": "UYouEnhanced",
+      "subtitle": "An amazing Youtube Tweak.",
       "bundleIdentifier": "com.google.ios.youtube",
       "version": "19.21.2",
       "versionDate": "2024-10-02",
