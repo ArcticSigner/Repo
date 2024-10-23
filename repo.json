@@ -153,13 +153,13 @@
       "iconURL": "https://user-images.githubusercontent.com/38832025/235781424-06d81647-b3db-4d9b-94dc-cd65cdf09145.png?raw=true)"
     },
     {
-      "name": "UYouEnhanced",
+      "name": "uYouEnhanced",
       "subtitle": "An amazing Youtube Tweak.",
       "bundleIdentifier": "com.google.ios.youtube",
       "version": "19.21.2",
       "versionDate": "2024-10-02",
       "size": 127400000,
-      "downloadURL": "https://github.com/ArcticSigner/Repo/releases/download/Ipa/uYouEnhanced.ipa",
+      "downloadURL": "https://github.com/ArcticSigner/Repo/releases/download/Ipa/uYouEnhanced_19.42.1-3.0.4.ipa",
       "developerName": "Google",
       "localizedDescription": "Youtube injected with uYouEnhanched.",
       "iconURL": "https://raw.githubusercontent.com/YTLitePlus/YTLitePlus-Altstore/main/Youtube_logo-512.png"   
