@@ -5,7 +5,7 @@
   "description": "Welcome to Arctic Signer's Repo, here you will find all of my recommended apps and games.",
   "iconURL": "https://github.com/ArcticSigner/Repo/blob/main/icon.png?raw=true",
   "website": "arcticsigner.github.io",
-    "tintColor": "",
+  "tintColor": "#03fc98",
   "sourceURL": "https://raw.githubusercontent.com/ArcticSigner/Repo/refs/heads/main/repo.json",
   "apps": [
        {
