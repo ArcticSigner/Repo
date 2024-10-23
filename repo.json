@@ -2,6 +2,7 @@
   "name": "Arctic Repo",
   "identifier": "arcticrepo.xyz",
   "iconURL": "https://github.com/ArcticSigner/Repo/blob/main/icon.png?raw=true",
+  "website": "arcticsigner.github.io",
   "sourceURL": "https://raw.githubusercontent.com/ArcticSigner/Repo/refs/heads/main/repo.json",
   "apps": [
        {
