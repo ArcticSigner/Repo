@@ -18,7 +18,6 @@
       "developerName": "Epic Games", 
       "localizedDescription": "Fortnite mobile, (Does Not work with all certs, to play it you need increased memory limit and extended virtual addressing).",
       "iconURL": "https://github.com/ArcticSigner/Repo/blob/main/fortnite.png?raw=true" 
-      "category": "utilities",
     },
     {
       "name": "Fall Guys",
@@ -31,7 +30,6 @@
       "developerName": "Mediatonic",
       "localizedDescription": "Enjoy the spooky Falloween update on mobile.",
       "iconURL": "https://preview.redd.it/fall-guys-mobile-icon-v0-d3n68howgkhd1.jpeg?auto=webp&s=c7f9e61f59f0800bdf628e344125d027642d2e88"
-      "category": "utilities",
     },  
     {
       "name": "Minecraft", 
@@ -44,7 +42,6 @@
       "developerName": "Mojang Studios", 
       "localizedDescription": "Minecraft, the perfect party game to play with friends.", 
       "iconURL": "https://www.minecraft.net/content/dam/minecraftnet/games/minecraft/logos/Homepage_Gameplay-Trailer_MC-OV-logo_300x300.png" 
-      "category": "utilities",
     },
     {
       "name": "Geometry Dash", 
@@ -70,7 +67,6 @@
       "developerName": "whoeevee", 
       "localizedDescription": "Spotify injected with EeveeSpotify.", 
       "iconURL": "https://storage.googleapis.com/pr-newsroom-wp/1/2023/05/Spotify_Primary_Logo_RGB_Green-300x300.png" 
-      "category": "utilities",
     },
     {
       "name": "Procreate Dreams", 
@@ -96,7 +92,6 @@
       "developerName": "Lrdsnow", 
       "localizedDescription": "PureKFD the all in one tweaking app!", 
       "iconURL": "https://avatars.githubusercontent.com/u/150500347?s=200&v=4"
-      "category": "utilities",
     },
     {
       "name": "TrollInstallerX", 
@@ -109,7 +104,6 @@
       "developerName": "alfiecg24", 
       "localizedDescription": "This installs Trollstore. (Only support iOS 15 to 16.5)", 
       "iconURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiN1MRecR4X--Ox9Pp-R-VS1-cYQinlzgfyAppAAJcNA&s" 
-      "category": "utilities",
     },
     {
       "name": "Dopamine", 
@@ -135,7 +129,6 @@
       "developerName": "khcrysalis", 
       "localizedDescription": "Feather, a new ipa signer. (Not as good as Arctic)", 
       "iconURL": "https://github.com/khcrysalis/Feather/blob/main/Images/512@2x.png?raw=true"  
-      "category": "utilities",
     },
     {
       "name": "Scarlet", 
@@ -148,7 +141,6 @@
       "developerName": "DebianArch64", 
       "localizedDescription": "Scarlet, a classic ipa signer that almost everyone has used.", 
       "iconURL": "https://avatars.githubusercontent.com/u/63203414?v=4"
-      "category": "utilities",
     },
     {
       "name": "YTMusicUltimate", 
@@ -161,7 +153,6 @@
       "developerName": "dayanch96", 
       "localizedDescription": "Youtube Music injected with Ultimate.", 
       "iconURL": "https://user-images.githubusercontent.com/38832025/235781424-06d81647-b3db-4d9b-94dc-cd65cdf09145.png?raw=true)"
-      "category": "utilities",
     },
     {
       "name": "UYouEnhanced",
@@ -174,7 +165,6 @@
       "developerName": "Google",
       "localizedDescription": "Youtube injected with uYouEnhanched.",
       "iconURL": "https://raw.githubusercontent.com/YTLitePlus/YTLitePlus-Altstore/main/Youtube_logo-512.png"   
-      "category": "utilities",
     },
   ]
 }
